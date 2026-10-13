@@ -1,0 +1,11 @@
+{
+  "id": "example-0001",
+  "date": "2026-10-13",
+  "track": "B",
+  "author": "Planetary Agency (example)",
+  "model": "human",
+  "title": "Example research record",
+  "claim": "This is a demonstration of record structure, not a mathematical claim.",
+  "status": "proposed",
+  "evidence": "Replace this example with a traceable source or experiment."
+}
